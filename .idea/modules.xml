@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ChatAppRMI.iml" filepath="$PROJECT_DIR$/.idea/ChatAppRMI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChatAppRmiHandIn3/ChatAppRmiHandIn3.iml" filepath="$PROJECT_DIR$/ChatAppRmiHandIn3/ChatAppRmiHandIn3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChatAppSockets/ChatAppSockets.iml" filepath="$PROJECT_DIR$/ChatAppSockets/ChatAppSockets.iml" />
+    </modules>
+  </component>
+</project>
