@@ -1,6 +1,6 @@
 package server.networking;
 
-import transferobject.Message;
+import shared.transferobject.Message;
 
 import java.util.ArrayList;
 

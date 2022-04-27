@@ -1,6 +1,6 @@
 package server.model;
 
-import util.PropertyChangeSubject;
+import shared.util.PropertyChangeSubject;
 
 public interface ChatModel extends PropertyChangeSubject {
 }

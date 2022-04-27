@@ -1,8 +1,8 @@
 package client.networking;
 
-import transferobject.Message;
-import transferobject.Request;
-import transferobject.RequestType;
+import shared.transferobject.Message;
+import shared.transferobject.Request;
+import shared.transferobject.RequestType;
 
 import java.beans.PropertyChangeListener;
 import java.beans.PropertyChangeSupport;
